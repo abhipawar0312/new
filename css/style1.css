@@ -1,0 +1,69 @@
+body{
+
+  text-align: center;
+  background-color: #40c5c142;
+
+}
+
+.myphoto{
+
+    border-radius: 100%;
+    width: 30%;
+
+    margin: 50px auto 0px auto;
+
+
+}
+
+
+
+
+
+
+
+.aa{
+
+     font-size: 1.6rem;
+    position: relative;
+
+    text-decoration:none;
+
+    margin: 0px 30px 0px 30px ;
+
+
+
+}
+
+.aboutself{
+
+
+
+    font-size: 1.2rem;
+}
+.about{
+    margin: 10px auto 10px auto;
+}
+.tital{
+    margin: 10px auto auto 20px;
+}
+.icon{
+
+
+  margin: 50px auto 50px auto;
+
+
+
+
+}
+
+
+hr{
+
+  margin: 80px auto 80px auto;
+    border: dotted #909d9d 2px;
+    width: 20%;
+    border-bottom: none;
+    margin: 5px auto;}
+h3{
+    font-size: 1rem;
+}
